@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>sheet_2021 - Command 1</Text>
+    <Description>Some description for sheet_2021</Description>
+    <Assembly>sheet_2021.dll</Assembly>
+    <FullClassName>sheet_2021.Command1</FullClassName>
+    <ClientId>ade115bf-7b32-4081-b1fc-2a297c354397</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>sheet_2021 - Command 2</Text>
+    <Description>Some description for sheet_2021</Description>
+    <Assembly>sheet_2021.dll</Assembly>
+    <FullClassName>sheet_2021.Command2</FullClassName>
+    <ClientId>861fe797-64c1-47ac-a42f-c8d214a8d462</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+		<Text>sheet_2021 - Command 3</Text>
+		<Description>Some description for sheet_2021</Description>
+		<Assembly>sheet_2021.dll</Assembly>
+		<FullClassName>sheet_2021.Command3</FullClassName>
+		<ClientId>34099D70-47D4-4BA9-8620-76D9E2131B9E</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>sheet_2021</Name>
+    <Assembly>sheet_2021.dll</Assembly>
+    <FullClassName>sheet_2021.App</FullClassName>
+    <ClientId>0d9df14b-e5e2-416c-85a5-9c08df482e52</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
